@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+<catalog>
+  <cd>
+    <title>Empire Burlesque</title>
+    <artist>Bob Dylan</artist>
+    <country>USA</country>
+    <company>Columbia</company>
+    <price>10.90</price>
+    <year>1985</year>
+  </cd>
+  <cd>
+    <title>Sinanscher Bait</title>
+    <artist>Halaman</artist>
+    <country>DE</country>
+    <company>SAP</company>
+    <price>5.43</price>
+    <year>2020</year>
+  </cd>
+</catalog> 

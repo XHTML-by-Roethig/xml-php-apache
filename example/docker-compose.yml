@@ -1,0 +1,9 @@
+services:
+  php:
+    image: ghcr.io/xhtml-by-roethig/xml-php-apache:main
+    container_name: xslt-server
+    restart: unless-stopped
+    ports:
+      - 8080:80
+    volumes:
+      - ./src:/var/www/html/
